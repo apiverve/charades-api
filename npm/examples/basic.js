@@ -15,7 +15,7 @@ const api = new charadesAPI({
 
 // Example query
 var query = {
-  category: "movies"
+  category: "all"
 };
 
 // Make the API request using callback
