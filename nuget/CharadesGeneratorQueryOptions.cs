@@ -12,7 +12,6 @@ namespace APIVerve.API.CharadesGenerator
     {
         /// <summary>
         /// Category: all, movies, books, songs, actions, animals, objects
-        /// Example: movies
         /// </summary>
         [JsonProperty("category")]
         public string Category { get; set; }
