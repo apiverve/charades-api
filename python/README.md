@@ -217,8 +217,9 @@ from apiverve_charadesgenerator.apiClient import CharadesAPIClient
 
 api = CharadesAPIClient("[YOUR_API_KEY]")
 
+query = { "category": "all" }
+
 try:
-    query = { "category": "all" }
     result = api.execute(query)
     print(result)
 finally:
