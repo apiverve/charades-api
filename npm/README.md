@@ -122,7 +122,7 @@ async function makeRequest() {
   "status": "ok",
   "error": null,
   "data": {
-    "word": "Tom Jones",
+    "word": "Selena",
     "category": "movies"
   }
 }
