@@ -1,13 +1,13 @@
-# [Charades Generator API](https://apiverve.com/marketplace/charades?utm_source&#x3D;github&amp;utm_medium&#x3D;readme)
+# [Charades Generator API](https://apiverve.com/marketplace/charades?utm_source&#x3D;github&amp;utm_medium&#x3D;referral&amp;utm_content&#x3D;readme)
 
 Charades Generator provides random words from curated categories perfect for playing the classic charades acting game.
 
 The Charades Generator API provides a simple, reliable way to integrate charades generator functionality into your applications. Built for developers who need production-ready charades generator capabilities without the complexity of building from scratch.
 
-**[View API Details →](https://apiverve.com/marketplace/charades?utm_source&#x3D;github&amp;utm_medium&#x3D;readme)**
+**[View API Details →](https://apiverve.com/marketplace/charades?utm_source&#x3D;github&amp;utm_medium&#x3D;referral&amp;utm_content&#x3D;readme)**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![API Status](https://img.shields.io/badge/Status-Active-green.svg)](https://apiverve.com/marketplace/charades?utm_source&#x3D;github&amp;utm_medium&#x3D;readme)
+[![API Status](https://img.shields.io/badge/Status-Active-green.svg)](https://apiverve.com/marketplace/charades?utm_source&#x3D;github&amp;utm_medium&#x3D;referral&amp;utm_content&#x3D;readme)
 [![Method](https://img.shields.io/badge/Method-GET-blue.svg)](#)
 [![Platform](https://img.shields.io/badge/Platform-Multi--Platform-orange.svg)](#installation)
 
@@ -157,7 +157,7 @@ go get github.com/apiverve/charades-api/go
 
 ## Documentation
 
-- 🏠 **API Home:** [Charades Generator API](https://apiverve.com/marketplace/charades?utm_source&#x3D;github&amp;utm_medium&#x3D;readme)
+- 🏠 **API Home:** [Charades Generator API](https://apiverve.com/marketplace/charades?utm_source&#x3D;github&amp;utm_medium&#x3D;referral&amp;utm_content&#x3D;readme)
 - 📚 **API Reference:** [docs.apiverve.com/ref/charades](https://docs.apiverve.com/ref/charades)
 - 📖 **OpenAPI Spec:** [openapi.yaml](./openapi.yaml)
 - 💡 **Examples:** [examples/](./examples/)
@@ -217,7 +217,7 @@ A real response from the Charades Generator API:
 
 ## Support & Community
 
-- 🏠 **API Home**: [Charades Generator API](https://apiverve.com/marketplace/charades?utm_source&#x3D;github&amp;utm_medium&#x3D;readme)
+- 🏠 **API Home**: [Charades Generator API](https://apiverve.com/marketplace/charades?utm_source&#x3D;github&amp;utm_medium&#x3D;referral&amp;utm_content&#x3D;readme)
 - 💬 **Support**: [https://apiverve.com/contact](https://apiverve.com/contact)
 - 🐛 **Issues**: [GitHub Issues](../../issues)
 - 📖 **Documentation**: [https://docs.apiverve.com](https://docs.apiverve.com)

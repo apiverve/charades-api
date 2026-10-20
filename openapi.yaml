@@ -18,7 +18,7 @@ servers:
 paths:
   /v1/charades:
     get:
-      summary: Generate Charades Word
+      summary: Charades Generator
       description: Generate random charades word from category
       operationId: charades
       parameters:
