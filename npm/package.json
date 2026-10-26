@@ -1,6 +1,6 @@
 {
   "name": "@apiverve/charades",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "description": "Charades Generator provides random words from curated categories perfect for playing the classic charades acting game.",
   "main": "index.js",
   "types": "index.d.ts",
