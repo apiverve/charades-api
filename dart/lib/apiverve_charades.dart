@@ -2,7 +2,7 @@
 ///
 /// Charades Generator provides random words from curated categories perfect for playing the classic charades acting game.
 ///
-/// For more information, visit: https://apiverve.com/marketplace/charades?utm_source=dart&utm_medium=readme
+/// For more information, visit: https://apiverve.com/marketplace/charades?utm_source=dart&utm_medium=referral&utm_content=readme
 library apiverve_charades;
 
 export 'src/client.dart';

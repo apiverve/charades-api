@@ -5,7 +5,7 @@ Charades Generator provides random words from curated categories perfect for pla
 [![pub package](https://img.shields.io/pub/v/apiverve_charades.svg)](https://pub.dev/packages/apiverve_charades)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-This is the Dart/Flutter client for the [Charades Generator API](https://apiverve.com/marketplace/charades?utm_source=dart&utm_medium=readme).
+This is the Dart/Flutter client for the [Charades Generator API](https://apiverve.com/marketplace/charades?utm_source=dart&utm_medium=referral&utm_content=readme).
 
 ## Installation
 
@@ -13,7 +13,7 @@ Add this to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  apiverve_charades: ^1.1.14
+  apiverve_charades: ^1.2.3
 ```
 
 Then run:
@@ -52,7 +52,7 @@ void main() async {
   "status": "ok",
   "error": null,
   "data": {
-    "word": "Tom Jones",
+    "word": "Selena",
     "category": "movies"
   }
 }
@@ -60,12 +60,12 @@ void main() async {
 
 ## API Reference
 
-- **API Home:** [Charades Generator API](https://apiverve.com/marketplace/charades?utm_source=dart&utm_medium=readme)
-- **Documentation:** [docs.apiverve.com/ref/charades](https://docs.apiverve.com/ref/charades?utm_source=dart&utm_medium=readme)
+- **API Home:** [Charades Generator API](https://apiverve.com/marketplace/charades?utm_source=dart&utm_medium=referral&utm_content=readme)
+- **Documentation:** [docs.apiverve.com/ref/charades](https://docs.apiverve.com/ref/charades?utm_source=dart&utm_medium=referral&utm_content=readme)
 
 ## Authentication
 
-All requests require an API key. Get yours at [apiverve.com](https://apiverve.com?utm_source=dart&utm_medium=readme).
+All requests require an API key. Get yours at [apiverve.com](https://apiverve.com?utm_source=dart&utm_medium=referral&utm_content=readme).
 
 ## License
 
@@ -73,4 +73,4 @@ MIT License - see [LICENSE](LICENSE) for details.
 
 ---
 
-Built with Dart for [APIVerve](https://apiverve.com?utm_source=dart&utm_medium=readme)
+Built with Dart for [APIVerve](https://apiverve.com?utm_source=dart&utm_medium=referral&utm_content=readme)
