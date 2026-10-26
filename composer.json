@@ -1,7 +1,7 @@
 {
     "name": "apiverve/charades",
     "description": "Charades Generator provides random words from curated categories perfect for playing the classic charades acting game.",
-    "version": "1.2.2",
+    "version": "1.2.3",
     "type": "library",
     "license": "MIT",
     "authors": [
