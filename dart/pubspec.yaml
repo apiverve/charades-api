@@ -1,6 +1,6 @@
 name: apiverve_charades
 description: "Charades Generator provides random words from curated categories perfect for playing the classic charades acting game."
-version: 1.2.3
+version: 1.2.4
 homepage: https://apiverve.com/marketplace/charades?utm_source=dart&utm_medium=referral&utm_content=homepage
 repository: https://github.com/apiverve/charades-api/tree/main/dart
 
